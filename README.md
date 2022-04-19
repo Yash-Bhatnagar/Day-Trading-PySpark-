@@ -1,6 +1,6 @@
 ![enter image description here](https://assets.goldavenue.com/uploads/tag/og_image/1253/sp500.jpg)
 
-## Day-Trading
+## Day-Trading Case
 You are Felix Benjamin of LWP Capital, one of Canada’s most prestigious capital and wealth management firms. Lately, you’ve been hearing a lot of worrying talk from clients about “passive investing” and “low-cost ETFs”, and you figure it’s about time to tackle this problem head-on, before more prospective customers start to doubt your ability to forecast the future and actively manage their funds. We can’t have that.
 
 You’ve pulled data from your brokerage with historical daily closing prices from a number of exchanges. The data is in typical candlestick format:
